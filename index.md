@@ -63,3 +63,10 @@ layout: default
 
 　　最后，别忘了网络是为了更好地体验旅行本身，而不是把你拴在屏幕上。祝你在阿塞拜疆玩得开心，网络通畅！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Azerbaijan SIM 卡购买与激活指南](https://faciylike.github.io/azerbaijan-sim-guides)
